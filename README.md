@@ -6,11 +6,13 @@ This repo is just a copy of answers I've posted there, so they're easy to find i
 
 ## Answers
 
-- [Android TV box: wireless debugging keeps turning off](help/xda/android-tv-box-wireless-debugging-keeps-turning-off.md): Wireless debugging on an Android 14 RK3518 TV box keeps switching itself off.
-- [Galaxy S24 Ultra: System UI keeps using location](help/xda/galaxy-s24-ultra-system-ui-location-always-on.md): The location indicator stays on and the history blames System UI.
 - [Galaxy A12: flashing a kernel in TWRP without a microSD](help/xda/galaxy-a12-flash-kernel-twrp-without-sd.md): How to flash a kernel zip or boot.img with no SD card.
-- [Galaxy Tab S8+: running Ubuntu or Linux](help/xda/galaxy-tab-s8-plus-ubuntu-linux.md): Can Ubuntu Touch or another Linux run on the Tab S8+?
-- [Huawei MediaPad M2 (d-02H): wrong resolution, getting to 802L firmware](help/xda/huawei-m2-d02h-to-802l-firmware.md): Converted d-02H shows the wrong resolution, looking for the right 802L / Marshmallow firmware.
-- [Android (Kotlin): isolating an object from the live camera](help/xda/android-kotlin-live-camera-object-segmentation.md): Ready made segmentation APIs only partly select the object on a live camera feed.
+- [Moto Edge 70 Fusion: any custom ROMs yet?](help/xda/moto-edge-70-fusion-custom-roms.md): Not yet, and why you shouldn't flash other Moto builds on it.
+- [OnePlus Pad 4: does LineageOS break the stylus?](help/xda/oneplus-pad-4-lineageos-stylus.md): What still works with the pen on Lineage and what you lose.
+- [Magisk Python 3.15 module vs Termux](help/xda/magisk-python-3-15-module-vs-termux.md): Same Python, just installed in a different place.
+- [Free Android Kitchen for Windows](help/xda/free-android-kitchen-for-windows.md): Deodex, debloat and repack old ROMs for free, on Windows or Debian.
+- [TCL Q7C (V667): HDMI drops with "TMDS clock unstable"](help/xda/tcl-q7c-v667-hdmi-tmds-clock-unstable.md): Some things to test when the TV loses signal right after the first frame.
+- [FOSSiBOT F106 Pro: free stock boot.img](help/xda/fossibot-f106-pro-boot-img-mtkclient.md): Pull your own boot.img with mtkclient instead of paying for a dump.
+- [Moto g13/g23: "fastboot reboot fastboot" opens TWRP](help/xda/moto-g13-fastboot-reboot-fastboot-opens-twrp.md): Why that happens and how to get to the real fastbootd.
 
 More will get added as I keep answering.
