@@ -1,0 +1,5 @@
+# Recovering data from a dead OnePlus 9 Pro via EDL
+
+XDA post: https://xdaforums.com/posts/90777483/
+
+Ugh, sorry, a dead phone with data you never backed up is one of the worst feelings. Short answer to the TEE question: a raw EDL dump of userdata stays encrypted. On file-based encryption the keys are wrapped by Keystore keys that never leave the phone's TEE, so your password alone won't decrypt the dump on a PC. Realistically, the data comes back by getting this board to boot again, then unlocking it with your password. One thing to avoid for now is the MSM Download Tool. It flashes the phone back to stock, wipes everything and relocks the bootloader, so for your data it's a dead end. The good news is that since it already shows up as QDL, a read-only dump is possible with bkerler's edl tool (the r / rl commands), so you'd have a copy before anyone touches the hardware. We can probably fix this. Feel free to DM me and I'll help you get the safe read-only side set up in the right order.

@@ -14,6 +14,7 @@ This repo is just a copy of answers I've posted there, so they're easy to find i
 - [TCL Q7C (V667): HDMI drops with "TMDS clock unstable"](help/xda/tcl-q7c-v667-hdmi-tmds-clock-unstable.md): Some things to test when the TV loses signal right after the first frame.
 - [FOSSiBOT F106 Pro: free stock boot.img](help/xda/fossibot-f106-pro-boot-img-mtkclient.md): Pull your own boot.img with mtkclient instead of paying for a dump.
 - [Moto g13/g23: "fastboot reboot fastboot" opens TWRP](help/xda/moto-g13-fastboot-reboot-fastboot-opens-twrp.md): Why that happens and how to get to the real fastbootd.
+- [OnePlus 9 Pro: recovering data from a dead phone via EDL](help/xda/oneplus-9-pro-edl-data-recovery.md): Why a raw dump stays encrypted and how to make a safe read-only copy first.
 
 ## From X
 
