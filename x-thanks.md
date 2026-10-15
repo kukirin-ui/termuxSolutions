@@ -59,11 +59,11 @@ Public replies on X from people I helped. Each links to the original post.
 19. https://x.com/i/status/2110364940485746943
     > "Thanks for the suggestion. ... It does improve performance significantly"
     Problem: Faster local LLM inference on a Snapdragon phone with llama.cpp + Vulkan in Termux.
-   Confirmed working.
+   ✅ **Confirmed working**
 20. https://x.com/i/status/2110188243958243555
     > "I'm done, the connection works. I had a bit of trouble connecting your app to Termux, but it all worked. The first result is in the picture."
     Problem: Connecting an Android agent app to his local Termux model server (Meridian on 127.0.0.1). Reported working.
-   Confirmed working.
+   ✅ **Confirmed working**
 21. https://x.com/i/status/2110038278267347032
     > "thanks for the response appreciated 😀"
     Problem: Running a small local LLM on a 12 GB Android phone with llama.cpp in Termux.
