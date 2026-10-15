@@ -30,3 +30,14 @@ Full d-02H to 802L path and extract guide:
 The old Huawei hicloud URLs for B207 (M2-802LC229B207CUSTC229D006) have been dead for years, so ignore those. Once you are on that 5.1.1 802L base with stock recovery, search for a mirror of that B207 update.zip and install it via Settings > Updater > Local Update from a dload folder. I could not find a verified free B209 package for 802L; the documented Marshmallow builds there are B203 and B207. The C209 in the B003 filename is the cust channel, not a B209 ROM.
 
 If the extract or fastboot step goes sideways, post the error here and I'll take a look.
+
+## Follow-up: dead firmware mirror, checking MD5
+
+
+XDA post: https://xdaforums.com/posts/90778081/
+
+**Question:** The AFH mirror went down, can someone reupload it?
+
+## Answer
+
+Yeah AFH drops mirrors all the time. I don't have that package saved so I can't reupload it, but since you have the MD5 you can check any copy you find before flashing. Search the exact build name in quotes, run md5sum on whatever you download, and if it doesn't match fbbbac9ee622e9b1baed8f5ad33fffd8 don't flash it.

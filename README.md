@@ -12,7 +12,5 @@ This repo is just a copy of answers I've posted there, so they're easy to find i
 - [Galaxy Tab S8+: running Ubuntu or Linux](help/xda/galaxy-tab-s8-plus-ubuntu-linux.md): Can Ubuntu Touch or another Linux run on the Tab S8+?
 - [Huawei MediaPad M2 (d-02H): wrong resolution, getting to 802L firmware](help/xda/huawei-m2-d02h-to-802l-firmware.md): Converted d-02H shows the wrong resolution, looking for the right 802L / Marshmallow firmware.
 - [Android (Kotlin): isolating an object from the live camera](help/xda/android-kotlin-live-camera-object-segmentation.md): Ready made segmentation APIs only partly select the object on a live camera feed.
-- [Huawei MediaPad M2: dead firmware mirror, checking MD5](help/xda/huawei-m2-firmware-mirror-md5-check.md): The AFH mirror went down, can someone reupload it?
-- [EDL read-only dump: tutorial plan](help/xda/edl-read-only-dump-tutorial-plan.md): Someone suggested writing a full EDL tutorial.
 
 More will get added as I keep answering.
