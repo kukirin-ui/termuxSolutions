@@ -15,4 +15,8 @@ This repo is just a copy of answers I've posted there, so they're easy to find i
 - [FOSSiBOT F106 Pro: free stock boot.img](help/xda/fossibot-f106-pro-boot-img-mtkclient.md): Pull your own boot.img with mtkclient instead of paying for a dump.
 - [Moto g13/g23: "fastboot reboot fastboot" opens TWRP](help/xda/moto-g13-fastboot-reboot-fastboot-opens-twrp.md): Why that happens and how to get to the real fastbootd.
 
+## From X
+
+- [Thanks from X](x-thanks.md): Replies from people I helped on X.
+
 More will get added as I keep answering.
