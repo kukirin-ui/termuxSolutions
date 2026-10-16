@@ -34,6 +34,7 @@ Each answer is a copy of my post, kept here so it's easy to find, and links back
 - [TCL Q7C (V667): HDMI drops to NoSignal with "TMDS clock unstable"](help/xda/tcl-q7c-v667-hdmi-tmds-clock-unstable.md): Some things to test when the TV loses signal right after the first frame.
 - [Mortal Q1 Mini (RK3518): wireless debugging keeps turning off](help/xda/mortal-q1-mini-wireless-debugging.md): Ethernet turns wireless debugging off on Android 14 TV builds.
 - [Android Auto: hard routing audio away from a second stereo](help/xda/android-auto-hard-routing-audio.md): Why AA grabs the media stream, and what actually works around it.
+- [Galaxy S24 Ultra: System UI constantly accessing location](help/xda/galaxy-s24-ultra-system-ui-location-esim.md): Narrowing it down to Wi-Fi Calling, an eSIM line or the eSIM app with appops.
 
 ## From X
 
