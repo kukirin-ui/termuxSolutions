@@ -4,6 +4,8 @@ XDA post: https://xdaforums.com/posts/90777399/
 
 Follow-up: https://xdaforums.com/posts/90777495/
 
+Follow-up: https://xdaforums.com/posts/90779281/
+
 ## On Windows
 
 dsixda's Android Kitchen does all three and it's completely free. It runs on Windows through Cygwin, and there's a standalone build here on XDA with Cygwin already merged in (https://xdaforums.com/t/dsixdas-and...andalone-for-windows-cygwin-included.2413996/), unzip it and run `runme.bat`. You still need a Java JDK installed first, the deodex step calls baksmali/smali through java.
@@ -27,3 +29,7 @@ sudo apt install default-jdk gcc perl wget cpio zip unzip
 Then cd into the folder and run `./menu`. Deodexing goes through the bundled smali/baksmali via java, so for older Dalvik ROMs like yours you're in good shape.
 
 If something gets stuck along the way, feel free to DM me and we'll sort it out.
+
+## Terminal or GUI?
+
+Terminal. It's a text menu: `./menu` shows numbered options and you type the number. No GUI, but it's easy enough to follow.
